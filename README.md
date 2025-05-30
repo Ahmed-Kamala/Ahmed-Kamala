@@ -1,7 +1,7 @@
 # Ahmed Kamala
 
 **PhD Student at the University of Manchester**  
-**Special Research Student at University of Tokyo**
+**Special Research Student at the University of Tokyo**
 
 ---
 
