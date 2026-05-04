@@ -7,9 +7,7 @@
 
 ## About Me
 
-I am a PhD student at the University of Manchester and a Special Research Student at the University of Tokyo. 
-My research interests are in Quantitaive & Statisitcal Methods, Machine Learning, Open Science, and Psychology, 
-with a focus on developing and improving machine learning-based methods for psychiatric, psychosocial, and medical sciences.
+Building on a background in psychology with an early interest in applied psychology, my academic trajectory has increasingly focused on two complementary domains. First, the development of advanced statistical methods, with an emphasis on computational approaches such as machine learning, and artificial intelligence in a broader sense, for enhancing statistical modeling. Second, the application of these methods to neuroscientific, psychological, and medical research contexts.
 
 ## Skills
 
